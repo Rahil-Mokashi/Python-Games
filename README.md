@@ -3,11 +3,11 @@
 A collection of intermediate-level Python games built using **Python** and the **Turtle graphics library**, designed to practice object-oriented programming, collision detection, event handling, and game logic.  
 
 ## 🕹️ Games Included  
-1. **Snake Game**  
+### [snake_game/](./snake_game)  
    - Classic snake gameplay with food collection and score tracking.  
    - Concepts used: OOP (class-based design), collision detection, and dynamic screen updates.  
 
-2. **Pong Arcade Game**  
+### [pong_game/](./pong_game) 
    - Two-player paddle game inspired by the classic Pong arcade.  
    - Concepts used: Paddle-ball collision, scoring system, event handling, and animations.  
 
